@@ -1,11 +1,19 @@
 {
 	"name": "escaleno/zf1-zend2to1",
 	"description": "Zend2to1 Library for Zend Framework 1",
+  "version": "0.0.1",
+  "type": "library",
 	"keywords": [
 		"framework",
 		"zf1",
 		"zend"
 	],
+  "homepage": "https://github.com/escaleno-ltda/zf1-zend2to1",
+  "license": "MIT",
+  "support": {
+    "email": "habla.con@escaleno.cl",
+    "issues": "https://github.com/escaleno-ltda/zf1-zend2to1/issues"
+  },
 	"require": {
 		"php": ">=5.3"
 	},
